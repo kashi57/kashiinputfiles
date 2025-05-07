@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+201,Apple,Fruit,0.5
+202,Banana,Fruit,0.3
+203,Orange,Fruit,0.4
+204,Milk,Dairy,1.2
+205,Bread,Bakery,1.0
+206,Eggs,Dairy,2.0
+207,Cheese,Dairy,2.5
+208,Butter,Dairy,1.8
+209,Yogurt,Dairy,1.1
+210,Juice,Beverage,2.2
